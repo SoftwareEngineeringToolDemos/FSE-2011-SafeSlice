@@ -5,7 +5,7 @@ This repository contains information related to the tool SafeSlice presented at 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [Project Page](https://sites.google.com/a/simula.no/safeslice/)
 
-In this repository, for ARIES-plugin you will find:
+In this repository, for SafeSlice you will find:
 * :x: Source code (not available)
 * :x: Executable tool (not available)
 
